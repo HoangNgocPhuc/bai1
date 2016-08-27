@@ -218,7 +218,7 @@ body{
 }
 
 .footer .company{
-	padding: 20px 190px; 
+	padding: 20px 180px; 
 }
 .company img{
 	margin: 0 5px
@@ -227,6 +227,8 @@ body{
 	background-image: url("images/background-footer.png"); 
 	background-repeat: repeat-x; 
 	height: 300px; 
+}
+.footer-content{
 	padding-top: 55px;
 }
 .footer1 .left{
@@ -245,6 +247,9 @@ body{
 	display: inline; 
 	margin-right:15px;
 	color: #c5c5c5;
+}
+.infor-1 span{
+	font-size: 13px;
 }
 .footer1 .left .infor-2{
 	padding: 0; 
