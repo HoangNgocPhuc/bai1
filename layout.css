@@ -2,6 +2,7 @@ body{
 	padding: 0;
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
+	line-height: 1.5;
 }
 .wrapper{
 	font-family: 'Roboto', sans-serif;
@@ -151,8 +152,8 @@ body{
 	color: #8a8a8a;
 }
 .content-left .text{
+	font-weight: 0;
 	margin: 25px 0;
-	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
 }
 .content-left .right li{
@@ -199,6 +200,7 @@ body{
 }
 .content-right ul li div{
 	margin-left: 50px;
+
 }
 .content-right ul li div a{
 	text-decoration: none;
